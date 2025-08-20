@@ -1,0 +1,23 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="80" fill="#007bff"/>
+  <g fill="white">
+    <!-- Document icon -->
+    <rect x="128" y="96" width="256" height="320" rx="16" fill="white"/>
+    <rect x="144" y="128" width="224" height="16" rx="8" fill="#007bff"/>
+    <rect x="144" y="160" width="224" height="12" rx="6" fill="#007bff"/>
+    <rect x="144" y="184" width="160" height="12" rx="6" fill="#007bff"/>
+    <rect x="144" y="208" width="192" height="12" rx="6" fill="#007bff"/>
+    
+    <!-- AI brain icon -->
+    <circle cx="320" cy="280" r="48" fill="#007bff"/>
+    <circle cx="300" cy="268" r="8" fill="white"/>
+    <circle cx="340" cy="268" r="8" fill="white"/>
+    <path d="M300 292 Q320 308 340 292" stroke="white" stroke-width="4" fill="none"/>
+    
+    <!-- Legal scales -->
+    <rect x="200" y="320" width="4" height="48" fill="#007bff"/>
+    <rect x="180" y="320" width="44" height="4" fill="#007bff"/>
+    <rect x="176" y="316" width="12" height="8" fill="#007bff"/>
+    <rect x="212" y="316" width="12" height="8" fill="#007bff"/>
+  </g>
+</svg>
